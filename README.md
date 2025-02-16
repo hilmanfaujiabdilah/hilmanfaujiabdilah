@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Perkenalkan nama saya **Hilman Fauji Abdilah**.<br>
+
+Saya seorang **Data Scientist**.<br>
+
+Saya terus belajar data science dan telah mendapatkan [sertifikasi Internasional DSBIZ](https://certifications.certnexus.com/9e5f7c52-bb8e-42e8-95bd-161792c2b488#acc.FhHKU8Md).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hilman-fauji-abdilah/)ku ya.
+
 <!--
 **hilmanfaujiabdilah/hilmanfaujiabdilah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
